@@ -1,1 +1,7 @@
-
+nav {
+  text-align: center;
+  background: black;
+}
+nav li {
+  color: white;
+}
