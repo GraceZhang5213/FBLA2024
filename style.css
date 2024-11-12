@@ -1,3 +1,7 @@
+p {
+  font-size: 30px;
+}
+
 nav {
   text-align: center;
   background-color: black;
@@ -7,13 +11,14 @@ nav {
 }
 
 .navigate {
-  font-size: 25px;
+  font-size: 20px;
+  text-align: center;
   text-decoration: none;
   color: white;
   border-style: solid;
   border-width: thin;
   border-color: #000000;
   border-radius: 5px;
-  padding: 10px;
+  padding: 5px;
   background-color: #a80b00;
 }
