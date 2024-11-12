@@ -7,3 +7,12 @@ nav li {
   list-style-type: none;
   text-decoration: none;
 }
+.navigate {
+  font-size: 25px;
+  border-style: solid;
+  border-width: medium;
+  border-color: #000000;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #a7fad1;
+}
