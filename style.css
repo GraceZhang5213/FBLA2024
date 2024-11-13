@@ -1,6 +1,6 @@
 p {
   font-size: 30px;
-  font-family: Spectral;
+  font-family: Urbanist;
 }
 
 nav {
@@ -12,6 +12,7 @@ nav li {
   text-decoration: none;
   list-style-type: none; 
   color: white;
+  font-family: Urbanist;
 }
 
 .navigate {
@@ -25,5 +26,5 @@ nav li {
   border-radius: 5px;
   padding: 5px;
   background-color: #a80b00;
-  font-family: Spectral;
+  font-family: Urbanist;
 }
