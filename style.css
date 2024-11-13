@@ -5,9 +5,12 @@ p {
 nav {
   text-align: center;
   background-color: black;
-  color: white;
-  list-style-type: none;
+}
+
+nav li {
   text-decoration: none;
+  list-style-type: none; 
+  color: white;
 }
 
 .navigate {
