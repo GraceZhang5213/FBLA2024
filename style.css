@@ -1,5 +1,6 @@
 p {
   font-size: 30px;
+  font-family: Spectral;
 }
 
 nav {
@@ -24,4 +25,5 @@ nav li {
   border-radius: 5px;
   padding: 5px;
   background-color: #a80b00;
+  font-family: Spectral;
 }
