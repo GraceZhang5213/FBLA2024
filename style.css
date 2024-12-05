@@ -38,5 +38,6 @@ nav a {
   font-family: Urbanist;
   font-weight: bold;
   margin: auto;
-  width: 10%;
+  width: 20%;
+  padding: 6px;
 }
