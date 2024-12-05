@@ -32,11 +32,12 @@ nav a {
   text-decoration: none;
   color: white;
   border-style: none;
-  border-width: thin;
   border-color: #000000;
   border-radius: 5px;
   padding: 5px;
   background-color: #a80b00;
   font-family: Urbanist;
   font-weight: bold;
+  margin: auto;
+  width: 10%;
 }
