@@ -11,7 +11,31 @@
       <li><a href="post.html">Post</a></li>
       <li><a href="browse.html">Browse</a></li>
     </nav>
-      <form action="results.html">
+      <form action="results.html" method="GET">
+        <div>
+          <label for="requester">Requester Name</label>
+          <input type="text" name="requester" id="requester" required>
+        </div>
+        <div>
+          <label for="company">Company</label>
+          <input type="text" name="company" id="company" placeholder="Write a short description of what your company does" required>
+        </div>
+        <div>
+          <label for="cdescription">Company Description>
+          <textarea name="cdescription" id="cdescription"></textarea>
+        <div>
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" required>
+        </div>
+        <div>
+          <label for="title">Open Job Title</label>
+          <input type="text" name="title" id="title" required>
+        </div>
+        <div>
+          <label for="jdescription">Job Description>
+          <textarea name="jdescription" id="jdescription"></textarea>
+        <div>
+        <button type="submit">Submit</button>
         
       </form>
   </body>
