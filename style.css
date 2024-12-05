@@ -8,6 +8,10 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
 p {
   font-size: 25px;
   font-family: Urbanist;
@@ -37,7 +41,5 @@ nav a {
   background-color: #a80b00;
   font-family: Urbanist;
   font-weight: bold;
-  margin: auto;
-  width: 20%;
   padding: 6px;
 }
