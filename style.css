@@ -38,6 +38,10 @@ input {
   background-color: #e8e8e8;
 }
 
+textarea {
+  background-color: #e8e8e8;
+}
+
 .navigate {
   font-size: 25px;
   text-align: center;
