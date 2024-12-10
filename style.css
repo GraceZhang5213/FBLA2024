@@ -36,10 +36,26 @@ nav a {
 
 input {
   background-color: #e8e8e8;
+  width: 100%;
+  padding: 15px 20px;
+  box-sizing: border-box;
+  border-weight: 2px;
+  border-style: solid;
+  border-radius: 4px;
 }
 
 textarea {
   background-color: #e8e8e8;
+  width: 100%;
+  height: 150px;
+  border-style: solid;
+  border-weight: 2px;
+  border-radius: 4px;
+  resize: none;
+}
+
+button {
+  width: 100%;
 }
 
 .navigate {
