@@ -25,6 +25,7 @@ p {
 nav {
   text-align: center;
   background-color: black;
+  width: 100%;
 }
 
 nav a {
