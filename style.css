@@ -35,6 +35,10 @@ nav a {
   font-family: Urbanist;
 }
 
+form {
+  position: absolute;
+}
+
 input {
   background-color: #e8e8e8;
   width: 100%;
