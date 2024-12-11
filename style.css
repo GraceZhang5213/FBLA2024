@@ -37,6 +37,9 @@ nav a {
 
 form {
   position: absolute;
+  max-width: 70%;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 input {
@@ -47,7 +50,8 @@ input {
   border-weight: 2px;
   border-style: solid;
   border-radius: 4px;
-  margin: 10px 10%;
+  margin-top: 10px;
+  margin-bottom: 10px;
   font-style: Urbanist;
 }
 
@@ -58,7 +62,8 @@ textarea {
   border-style: solid;
   border-weight: 2px;
   border-radius: 4px;
-  margin: 10px 10%;
+  margin-top: 10px;
+  margin-bottom: 10px;
   resize: none;
   font-style: Urbanist;
 }
