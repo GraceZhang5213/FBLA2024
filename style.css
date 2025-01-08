@@ -35,49 +35,6 @@ nav a {
   font-family: Urbanist;
 }
 
-form {
-  position: absolute;
-  max-width: 70%;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-input {
-  background-color: #e8e8e8;
-  width: 100%;
-  padding: 15px 20px;
-  box-sizing: border-box;
-  border-weight: 2px;
-  border-style: solid;
-  border-radius: 4px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-style: Urbanist;
-}
-
-textarea {
-  background-color: #e8e8e8;
-  width: 100%;
-  height: 150px;
-  border-style: solid;
-  border-weight: 2px;
-  border-radius: 4px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  resize: none;
-  font-style: Urbanist;
-}
-
-label {
-  margin-left: 10%;
-  margin-right: 10%;
-  font-style: Urbanist;
-}
-
-button {
-  width: 100%;
-}
-
 .navigate {
   font-size: 25px;
   text-align: center;
