@@ -64,3 +64,17 @@ nav a {
   border-color: #000000;
   border-weight: 2px;
 }
+
+.job-posting {
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  display: block;
+  text-align: center;
+}
+
+.link-width {
+  width: 80%;
+}
