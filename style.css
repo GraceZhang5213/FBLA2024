@@ -67,12 +67,14 @@ nav a {
 
 .job-posting {
   width: 100%;
-  margin-left: 0px;
-  margin-right: 0px;
-  padding-left: 0px;
-  padding-right: 0px;
+  margin: 0px 10px;
+  padding: 0px 10px;
   display: block;
   text-align: center;
+  background-color: #fc4b42;
+  color: white;
+  font-family: Urbanist;
+  font-weight: bold;
 }
 
 .link-width {
