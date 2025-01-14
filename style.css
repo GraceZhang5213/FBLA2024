@@ -80,6 +80,7 @@ nav a {
   color: white;
   font-family: Urbanist;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .link-width {
