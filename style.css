@@ -92,3 +92,11 @@ nav a {
 .link-width {
   width: 100%;
 }
+
+.form-style {
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+}
