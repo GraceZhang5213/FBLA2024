@@ -99,4 +99,6 @@ nav a {
 
 form {
   display: inline-block;
+  width: 50%
+  margin: 0, auto; 
 }
