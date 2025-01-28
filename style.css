@@ -2,18 +2,21 @@ h1 {
   font-family: Abel;
   text-align: center;
   font-size: 35px;
+  margin-bottom: 8px;
 }
 
 h2 {
   font-family: Urbanist;
   text-align: center;
   font-size: 30px;
+  margin-bottom: 8px;
 }
 
 h3 {
   font-family: Urbanist;
   text-align: center;
   font-size: 28px;
+  margin-bottom: 8px;
 }
 
 p {
