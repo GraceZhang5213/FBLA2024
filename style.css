@@ -175,8 +175,16 @@ label {
 
 .home-button {
   text-decoration: none;
-  font-size: 18px;
-  color: #78aafa;
+  font-size: 24px;
+  color: #1f267a;
 }
 
+hr {
+  width: 50%;
+  margin: 0 auto;
+  color: #fc4b42;
+  background-color: #fc4b42;
+  border: none;
+  height: 3px;
+}
 
