@@ -61,8 +61,8 @@ nav a {
 }
 
 .mainimage {
-  max-width: 1000%;
-  height: auto;
+  max-width: 100%;
+  height: 100%;
   border-top-style: solid;
   border-bottom-style: solid;
   border-left-style: none;
