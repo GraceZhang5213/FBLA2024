@@ -54,6 +54,7 @@ li {
 
 .mainimage {
   max-width: 100%;
+  width: 100%;
   height: auto;
   border-top-style: solid;
   border-bottom-style: solid;
