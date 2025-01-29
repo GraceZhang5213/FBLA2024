@@ -22,7 +22,7 @@ p {
 }
 
 li {
-  font-size: 25px;
+  font-size: 22px;
   font-family: Libre Baskerville;
   text-align: justify;
   margin-left: 30px;
@@ -169,7 +169,7 @@ label {
 }
 
 hr {
-  width: 10%;
+  width: 15%;
   margin-left: 30px;
   color: #de0a02;
   background-color: #de0a02;
