@@ -24,7 +24,9 @@ p {
 li {
   font-size: 25px;
   font-family: Libre Baskerville;
-  text-align: left;
+  text-align: justify;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .navigate {
