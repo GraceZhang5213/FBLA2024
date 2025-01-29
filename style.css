@@ -53,8 +53,8 @@ li {
 }
 
 .mainimage {
-  max-width: 1000%;
-  height: 1000%;
+  max-width: 100%;
+  height: auto;
   border-top-style: solid;
   border-bottom-style: solid;
   border-left-style: none;
