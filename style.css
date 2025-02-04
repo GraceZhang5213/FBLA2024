@@ -48,18 +48,6 @@ li {
   justify-content: center;
 }
 
-.mainimage {
-  max-width: 100%;
-  width: 100%;
-  height: auto;
-  border-top-style: solid;
-  border-bottom-style: solid;
-  border-left-style: none;
-  border-right-style: none;
-  border-color: #000000;
-  border-weight: 2px;
-}
-
 .job-posting {
   width: 100%;
   margin-top: 10px;
