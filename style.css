@@ -186,3 +186,46 @@ hr {
   height: 4px;
 }
 
+.slider-wrapper {
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.slider: {
+  display: flex;
+  aspect-ratio: 16/9;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+.slider img {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 100%
+  scroll-snap-align: start;
+  object-fit: cover;
+}
+
+.slider-nav {
+  display: flex;
+  column-gap: 12px;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%); 
+  z-index: 1;
+}
+
+.slider-nav a {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #fff;
+  opacity: 50%;
+}
+
+.slider-nav a:hover {
+  opacity: 1;
+}
