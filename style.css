@@ -176,7 +176,7 @@ hr {
 
 .slider-wrapper {
   position: relative;
-  max-width: 800px;
+  max-width: 50rem;
   margin: 0 auto;
 }
 
@@ -189,9 +189,7 @@ hr {
 }
 
 .slider img {
-  flex-grow: 1;
-  flex-shrink: 0;
-  flex-basis: 100%;
+  flex: 1 0 100%;
   scroll-snap-align: start;
   object-fit: cover;
 }
