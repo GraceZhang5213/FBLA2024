@@ -114,6 +114,13 @@ input[type=number] {
   font-size: 25px;
 }
 
+input[type=file] {
+  width: 25%;
+  padding: 15px;
+  margin: 10px 0;
+  font-size: 25px;
+}
+
 button {
   width: 100%;
   padding: 15px;
