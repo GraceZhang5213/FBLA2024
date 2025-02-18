@@ -181,3 +181,23 @@ hr {
   height: 4px;
 }
 
+table {
+  text-align: left;
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1px solid #5e5e5e;
+}
+
+th {
+  font-size: 20px;
+  font-style: Libre Baskerville;
+  background-color: #fc4b42;
+}
+
+td {
+  font-size: 20px;
+  font-style: Libre Baskerville;
+}
+
