@@ -194,11 +194,14 @@ th {
   font-size: 20px;
   font-style: Libre Baskerville;
   background-color: #fc4b42;
+  padding: 8px;
+  width: 25%;
 }
 
 td {
   font-size: 20px;
   font-style: Libre Baskerville;
+  padding: 8px;
 }
 
 .container {
