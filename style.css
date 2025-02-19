@@ -210,3 +210,12 @@ td {
  grid-template-columns: 1fr 1fr;
  column-gap: 5px;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%
+  padding: 15px;
+}
