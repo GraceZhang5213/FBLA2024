@@ -213,7 +213,7 @@ td {
 
 .row {
   display: flex;
-  margin: 15px 60px;
+  margin: 15px auto;
 }
 
 .column {
