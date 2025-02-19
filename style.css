@@ -209,7 +209,7 @@ td {
  display: grid;
  align-items: center; 
  grid-template-columns: 1fr 1fr;
- column-gap: 5px;
+ column-gap: 60px;
 }
 
 .row {
@@ -220,4 +220,19 @@ td {
 .column {
   flex: 50%
   padding: 20px;
+}
+
+.barista {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.bike {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.roofing {
+  margin-left: 60px;
+  margin-right: 60px;
 }
