@@ -213,13 +213,19 @@ td {
 }
 
 .row {
-  display: flex;
   margin: 15px auto;
 }
 
 .column {
-  flex: 50%
+  float: left;
   padding: 20px;
+  width: 50%
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .barista {
