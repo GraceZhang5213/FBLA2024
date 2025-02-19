@@ -213,9 +213,10 @@ td {
 
 .row {
   display: flex;
+  margin: 15px 60px;
 }
 
 .column {
   flex: 50%
-  padding: 15px;
+  padding: 20px;
 }
