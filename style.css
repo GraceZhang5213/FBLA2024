@@ -209,7 +209,7 @@ td {
  display: grid;
  align-items: center; 
  grid-template-columns: 1fr 1fr;
- column-gap: 60px;
+ column-gap: 2px;
 }
 
 .row {
