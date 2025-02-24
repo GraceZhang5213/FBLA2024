@@ -192,17 +192,17 @@ tr {
 }
 
 th {
-  font-size: 15px;
+  font-size: 10px;
   font-style: Libre Baskerville;
   background-color: #fc4b42;
-  padding: 8px;
+  padding: 7px;
   width: 25%;
 }
 
 td {
-  font-size: 15px;
+  font-size: 10px;
   font-style: Libre Baskerville;
-  padding: 8px;
+  padding: 7px;
 }
 
 .container {
