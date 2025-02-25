@@ -235,15 +235,18 @@ td {
 }
 
 .barista {
+  margin-right: 30px;
   margin-left: 60px;
 }
 
 .bike {
   margin-right: 60px;
+  margin-left: 30px;
 }
 
 .roofing {
   margin-right: 60px;
+  margin-left: 30px;
 }
 
 .results {
@@ -251,5 +254,15 @@ td {
   font-family: Libre Baskerville;
   text-align: center;
   margin-left: 60px;
+  margin-right: 60px;
+}
+
+.paragraph1 {
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+.paragraph2 {
+  margin-left: 30px;
   margin-right: 60px;
 }
