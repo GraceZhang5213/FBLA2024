@@ -79,7 +79,7 @@ li {
 .form-style {
   max-width: 70%;
   margin: 30px auto;
-  background-color: #faf8c8;
+  background-color: #cccccc;
   padding: 30px;
   border-radius: 15px;
 }
@@ -89,9 +89,9 @@ input[type=text] {
   padding: 15px;
   margin: 10px 0;
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
   border-color:#fc4b42;
-  border-radius: 15px;
+  border-radius: 25px;
   box-sizing: border-box;
   font-size: 25px;
 }
@@ -101,9 +101,9 @@ input[type=email] {
   padding: 15px;
   margin: 10px 0;
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
   border-color:#fc4b42;
-  border-radius: 15px;
+  border-radius: 25px;
   box-sizing: border-box;
   font-size: 25px;
 }
@@ -113,9 +113,9 @@ input[type=number] {
   padding: 15px;
   margin: 10px 0;
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
   border-color:#fc4b42;
-  border-radius: 15px;
+  border-radius: 25px;
   box-sizing: border-box;
   font-size: 25px;
 }
@@ -152,10 +152,6 @@ textarea {
   box-sizing: border-box;
   font-size: 25px;
   resize: none;
-}
-
-.form-background {
-  background-color: #fc4b42;
 }
 
 label {
