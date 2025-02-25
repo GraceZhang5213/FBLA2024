@@ -35,8 +35,6 @@ li {
   margin-right: 60px;
 }
 
-<!-- Styles for the Browse and Post buttons -->
-
 .navigate {
   font-size: 25px;
   text-align: center;
@@ -55,8 +53,6 @@ li {
   display: flex;
   justify-content: center;
 }
-
-<!-- Links for the Browse page -->
 
 .job-posting {
   width: 100%;
@@ -87,8 +83,6 @@ li {
   padding: 30px;
   border-radius: 15px;
 }
-
-<!-- Form styles -->
 
 input[type=text] {
   width: 100%;
@@ -165,15 +159,11 @@ label {
   display: block;
 }
 
-<!-- Home Button -->
-
 .home-button {
   text-decoration: none;
   font-size: 24px;
   color: #1f267a;
 }
-
-<!-- Colored lines below words -->
 
 hr {
   width: 15%;
@@ -192,8 +182,6 @@ hr {
   border: none;
   height: 4px;
 }
-
-<!-- Table Styles -->
 
 table {
   text-align: left;
@@ -235,8 +223,6 @@ td {
   display: table;
 }
 
-<!-- Image positioning styles -->
-
 .container {
  display: grid;
  align-items: center; 
@@ -268,8 +254,6 @@ td {
   margin-left: 30px;
   margin-right: 60px;
 }
-
-<!-- For the page after you turn in a form -->
 
 .results {
   font-size: 22px;
