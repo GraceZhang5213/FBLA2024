@@ -225,14 +225,17 @@ td {
 
 .barista {
   float: left;
+  margin-right: 60px;
 }
 
 .bike {
   float: right;
+  margin-left: 60px;
 }
 
 .roofer {
   float: right;
+  margin-left: 60px;
 }
 
 .results {
