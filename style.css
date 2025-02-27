@@ -194,7 +194,7 @@ tr {
 }
 
 th {
-  font-size: 16px;
+  font-size: 18px;
   font-style: Libre Baskerville;
   background-color: #fc4b42;
   padding: 7px;
@@ -202,7 +202,7 @@ th {
 }
 
 td {
-  font-size: 16px;
+  font-size: 18px;
   font-style: Libre Baskerville;
   padding: 7px;
 }
@@ -214,7 +214,7 @@ td {
 .column {
   float: left;
   padding: 10px;
-  width: 45%;
+  width: 49%;
 }
 
 .row::after {
@@ -241,4 +241,10 @@ td {
   text-align: center;
   margin-left: 60px;
   margin-right: 60px;
+}
+
+.table-header {
+  background-color: none;
+  font-size: 22px;
+  font-style: Abel;
 }
