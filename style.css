@@ -225,16 +225,28 @@ td {
 .barista {
   float: left;
   margin-right: 60px;
+  border-style: solid;
+  border-color: #de0a02;
+  border-radius: 15px;
+  border-width: 15px;
 }
 
 .bike {
   float: right;
   margin-left: 60px;
+  border-style: solid;
+  border-color: #fc4b42;
+  border-radius: 15px;
+  border-width: 15px;
 }
 
 .roofer {
   float: right;
   margin-left: 60px;
+  border-style: solid;
+  border-color: #fc4b42;
+  border-radius: 15px;
+  border-width: 15px;
 }
 
 .results {
@@ -248,5 +260,5 @@ td {
 .table-header {
   background-color: #ffffff;
   font-size: 22px;
-  font-style: Abel;
+  font-family: Abel;
 }
