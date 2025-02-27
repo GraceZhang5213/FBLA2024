@@ -213,7 +213,7 @@ td {
 .column {
   float: left;
   padding: 10px;
-  width: 49%;
+  width: 48%;
 }
 
 .row::after {
@@ -246,7 +246,7 @@ td {
 }
 
 .table-header {
-  background-color: none;
+  background-color: #ffffff;
   font-size: 22px;
   font-style: Abel;
 }
