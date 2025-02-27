@@ -223,36 +223,16 @@ td {
   display: table;
 }
 
-.container {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr;
- column-gap: 2px;
-}
-
 .barista {
-  margin-right: 30px;
-  margin-left: 60px;
+  float: left;
 }
 
 .bike {
-  margin-right: 0px;
-  margin-left: 0px;
+  float: right;
 }
 
 .roofer {
-  margin-right: 0px;
-  margin-left: 0px;
-}
-
-.paragraph1 {
-  margin-left: 0px;
-  margin-right: 0px;
-}
-
-.paragraph2 {
-  margin-left: 0px;
-  margin-right: 0px;
+  float: right;
 }
 
 .results {
