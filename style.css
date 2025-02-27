@@ -228,7 +228,7 @@ td {
   border-style: solid;
   border-color: #de0a02;
   border-radius: 15px;
-  border-width: 15px;
+  border-width: 35px;
 }
 
 .bike {
@@ -237,7 +237,7 @@ td {
   border-style: solid;
   border-color: #fc4b42;
   border-radius: 15px;
-  border-width: 15px;
+  border-width: 35px;
 }
 
 .roofer {
@@ -246,7 +246,7 @@ td {
   border-style: solid;
   border-color: #fc4b42;
   border-radius: 15px;
-  border-width: 15px;
+  border-width: 35px;
 }
 
 .results {
