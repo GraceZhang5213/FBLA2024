@@ -263,6 +263,30 @@ td {
   font-family: Abel;
 }
 
-.gray-background {
-  background-color: #d3d3d3;
+@media screen and (max-width: 600px) {
+  h1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  h3 {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  p {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  li {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+  }
 }
