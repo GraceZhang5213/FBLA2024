@@ -267,17 +267,17 @@ td {
   h1 {
     margin-left: 10px;
     margin-right: 10px;
-    font-size: 18px;
+    font-size: 35px;
   }
   h2 {
     margin-left: 10px;
     margin-right: 10px;
-    font-size: 18px;
+    font-size: 30px;
   }
   h3 {
     margin-left: 10px;
     margin-right: 10px;
-    font-size: 18px;
+    font-size: 25px;
   }
   p {
     margin-left: 10px;
@@ -288,5 +288,8 @@ td {
     margin-left: 10px;
     margin-right: 10px;
     font-size: 18px;
+  }
+  hr {
+    margin-left: 10px;
   }
 }
