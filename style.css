@@ -262,3 +262,7 @@ td {
   font-size: 22px;
   font-family: Abel;
 }
+
+.gray-background {
+  background-color: #d3d3d3;
+}
